@@ -1,0 +1,15 @@
+.stack-card {
+  --notch-bg: var(--color-white);
+  background-color: var(--color-white);
+}
+
+.stack-card .bg-\[\var\(--color-bg-warm\)\] {
+  background-color: var(--color-white) !important;
+}
+
+.stack-card-inner section,
+.stack-card-inner > div {
+  padding-top: 28px !important;
+  padding-bottom: 56px !important;
+  background-color: var(--color-white) !important;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Spacedesk - Flexible Workspaces & Coworking",
+  "description": "A premium, architectural coworking landing page featuring flexible workspaces, hot desks, private offices, interactive tour booking, and community discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

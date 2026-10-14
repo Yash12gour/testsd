@@ -1,0 +1,20 @@
+# SpaceDesk Co-Working - Robots.txt
+# https://spacedesk.in
+
+User-agent: *
+Allow: /
+Allow: /images/
+Allow: /videos/
+Allow: /logo.png
+Allow: /favicon.png
+
+# Disallow non-public / internal administrative routes
+Disallow: /admin/
+Disallow: /login/
+Disallow: /account/
+Disallow: /dashboard/
+Disallow: /preview/
+Disallow: /api/
+
+# Sitemap reference
+Sitemap: https://spacedesk.in/sitemap.xml
